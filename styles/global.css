@@ -57,3 +57,20 @@ h3 {
 span {
     font: var(--text-span);
 }
+
+
+.container {
+    max-width: 1280px;
+    padding-inline: 32px;
+    margin-inline: auto;
+}
+
+/* utility-first */
+/* Tenho uma classe que vai fazer apenas uma coisa */
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
+}
