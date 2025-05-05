@@ -1,5 +1,8 @@
 # TECH NEWS
 ## Seu portal de notícias
+
+<img src="brand-cover.png">
+
 Projeto desenvolvido durante a trilha Full-Stack da Rocketseat no módulo de CSS-GRID.
 
 Neste módulo aprofundei meus conhecimentos em CSS GRID, como alguém que vem a bastante tempo utilizando o Flexbox, foi interessante descobrir as possibilidades que o CSS Grid nos fornece.
